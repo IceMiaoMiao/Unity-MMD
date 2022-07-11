@@ -5,12 +5,12 @@ ModelImporter:
   internalIDToNameTable:
   - first:
       74: -6264196090286792807
-    second: MMD Maker/Assets/VMD/Dance/0004_vmd
+    second: Dancevmd
   externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 1
+    materialSearch: 0
     materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
@@ -29,7 +29,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.2
     animationPositionError: 0.2
     animationScaleError: 0.2
@@ -38,7 +38,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: MMD Maker/Assets/VMD/Dance/0004_vmd
+      name: Dancevmd
       takeName: MMD Maker/Assets/VMD/Dance/0004_vmd
       internalID: 0
       firstFrame: 0
