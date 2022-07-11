@@ -1,0 +1,699 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 22000.613; Version 2009; 64bit' Language: 'zh' Physical Memory: 16219 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\unityhub\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/UnityProjects/MMD Maker
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+8795
+Successfully changed project path to: G:/UnityProjects/MMD Maker
+G:/UnityProjects/MMD Maker
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 16.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path F:/unityhub/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/UnityProjects/MMD Maker/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   
+    VRAM:     6023 MB
+    Driver:   30.0.14.7199
+Initialize mono
+Mono path[0] = 'F:/unityhub/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'F:/unityhub/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/unityhub/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56756
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/unityhub/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000756 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 17.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.595 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 1.328000 ms (FindLiveObjects: 0.139400 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.097700 ms  DeleteObjects: 0.056700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4856052512617ee48189cf1d7999900') in 0.006021 seconds
+  Import took 0.007564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.843127 seconds.
+  path: Assets/Models
+  artifactKey: Guid(e58e06d342a46fb41bf54386e7301451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(e58e06d342a46fb41bf54386e7301451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e6e452a3cb1faa24c3e3b92e1cb79f') in 0.004896 seconds
+  Import took 0.006527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.170199 seconds.
+  path: Assets/VMD
+  artifactKey: Guid(1b080a4a71bbfa44db92e02a88eed677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VMD using Guid(1b080a4a71bbfa44db92e02a88eed677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ba3a2bd4f47a20a59f452f47e63d6e') in 0.004633 seconds
+  Import took 0.006309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.429585 seconds.
+  path: Assets/VMD/Camera
+  artifactKey: Guid(f43a198920b31344087325fff165f028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VMD/Camera using Guid(f43a198920b31344087325fff165f028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7481a9730aef2b0e6bf69730622c4135') in 0.004867 seconds
+  Import took 0.006589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.023425 seconds.
+  path: Assets/VMD/Face
+  artifactKey: Guid(b0af029cf4edf0648859c53a997186e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VMD/Face using Guid(b0af029cf4edf0648859c53a997186e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b188e0abb96c9073fcc64e10360c60f7') in 0.004865 seconds
+  Import took 0.006444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.143802 seconds.
+  path: Assets/VMD/Dance
+  artifactKey: Guid(78a2bbe9938c1634880db8fde0190c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VMD/Dance using Guid(78a2bbe9938c1634880db8fde0190c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adde6e1a90990c52e702f90428afb8fb') in 0.004761 seconds
+  Import took 0.006536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 833.543384 seconds.
+  path: Assets/Music
+  artifactKey: Guid(1917490f89412484ebf63d76e30cdc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music using Guid(1917490f89412484ebf63d76e30cdc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b70f7c21cfb48fdad25fc1528ac6dff') in 0.006027 seconds
+  Import took 0.007856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.737288 seconds.
+  path: Assets/Music/202203191025.wav
+  artifactKey: Guid(434cabb2bf00ea34f924e92ec25e84fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/202203191025.wav using Guid(434cabb2bf00ea34f924e92ec25e84fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54816ba441103501fe19859435247a4') in 0.194775 seconds
+  Import took 0.196641 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Shader 'MMD4Mecanim/MMDLit-Tess-Edge': fallback shader 'MMD4Mecanim/MMDLit-Edge' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-BothFaces-Transparent': fallback shader 'MMD4Mecanim/MMDLit-BothFaces-Transparent' not found
+Shader 'MMD4Mecanim/MMDLit-Tess-BothFaces-Edge': fallback shader 'MMD4Mecanim/MMDLit-BothFaces-Edge' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-BothFaces-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-BothFaces-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Edge': fallback shader 'MMD4Mecanim/MMDLit-NoShadowCasting-Edge' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Transparent': fallback shader 'MMD4Mecanim/MMDLit-NoShadowCasting-Transparent' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Transparent' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Transparent' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-BothFaces-Edge': fallback shader 'MMD4Mecanim/MMDLit-NoShadowCasting-BothFaces-Edge' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-BothFaces-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-BothFaces-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Transparent-Edge': fallback shader 'MMD4Mecanim/MMDLit-NoShadowCasting-Transparent-Edge' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Transparent-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-Transparent-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-BothFaces-Transparent-Edge': fallback shader 'MMD4Mecanim/MMDLit-BothFaces-Transparent-Edge' not found
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-BothFaces-Transparent-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MMD4Mecanim/MMDLit-Tess-BothFaces-Transparent-Edge' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MMD4Mecanim/MMDLit-Tess-NoShadowCasting-BothFaces': fallback shader 'MMD4Mecanim/MMDLit-NoShadowCasting-BothFaces' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 10.600400 ms (FindLiveObjects: 0.130700 ms CreateObjectMapping: 0.023300 ms MarkObjects: 1.334700 ms  DeleteObjects: 9.110200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 11.559500 ms (FindLiveObjects: 0.122500 ms CreateObjectMapping: 0.024400 ms MarkObjects: 1.628100 ms  DeleteObjects: 9.783200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.761168 seconds.
+  path: Assets/MMD4Mecanim
+  artifactKey: Guid(2793a1e3c3067dc43bb56bf36a6b5751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MMD4Mecanim using Guid(2793a1e3c3067dc43bb56bf36a6b5751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9299bee668bb9b6bb1b3105d0ea7d7') in 0.013144 seconds
+  Import took 0.014945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.109145 seconds.
+  path: Assets/MMD4Mecanim/Plugins
+  artifactKey: Guid(c4f4c47bddf0bb141acb8d075ef51abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MMD4Mecanim/Plugins using Guid(c4f4c47bddf0bb141acb8d075ef51abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d8eaefe3517947c57653c13ba35799') in 0.004889 seconds
+  Import took 0.006645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.535361 seconds.
+  path: Assets/Models/宵宫.MMD4Mecanim.asset
+  artifactKey: Guid(d57c3a859c483034d9964fdc9075acfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/宵宫.MMD4Mecanim.asset using Guid(d57c3a859c483034d9964fdc9075acfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291f1e09e976377c83c6f0a858d085a7') in 0.016865 seconds
+  Import took 0.018581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.915211 seconds.
+  path: Assets/Models/xiaogong
+  artifactKey: Guid(5537193f858e8ee44902a407f5e67568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong using Guid(5537193f858e8ee44902a407f5e67568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc599f54a407e53c7a712e37ae072d24') in 0.006186 seconds
+  Import took 0.007928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Assets/Models/xiaogong
+  artifactKey: Guid(5537193f858e8ee44902a407f5e67568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong using Guid(5537193f858e8ee44902a407f5e67568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc599f54a407e53c7a712e37ae072d24') in 0.004333 seconds
+  Import took 0.006186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.095970 seconds.
+  path: Assets/Models/xiaogong/宵宫.fbx
+  artifactKey: Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/宵宫.fbx using Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f322115d8f890d5b31b755aa5466f5') in 0.350413 seconds
+  Import took 0.354052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.463550 seconds.
+  path: Assets/Models/xiaogong/tex
+  artifactKey: Guid(cbfa08414ad4e0b46b41c8650a4d5b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex using Guid(cbfa08414ad4e0b46b41c8650a4d5b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6985969b847b18366fde5ddcce3bcc1c') in 0.012220 seconds
+  Import took 0.014018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064360 seconds.
+  path: Assets/Models/xiaogong/tex/sph+.png
+  artifactKey: Guid(3f96a74986d45c549bc31b14bb8391e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph+.png using Guid(3f96a74986d45c549bc31b14bb8391e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6833cc2e62dcdcf75c8a062cb0e3ebd') in 0.057703 seconds
+  Import took 0.059515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Models/xiaogong/tex/衣.png
+  artifactKey: Guid(760efbf6a9030364d94af849f1031372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/衣.png using Guid(760efbf6a9030364d94af849f1031372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50c24acd993dd16ae4d076e6c84d0e3') in 0.011011 seconds
+  Import took 0.012995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Models/xiaogong/tex/髮.png
+  artifactKey: Guid(97150c85f02dedb40ac41e31faa5d62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/髮.png using Guid(97150c85f02dedb40ac41e31faa5d62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49e500fb9cceccd7e836ce7d56970e3') in 0.010628 seconds
+  Import took 0.012390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Models/xiaogong/tex/面.png
+  artifactKey: Guid(b4d30731f482a934696276b0d27582ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/面.png using Guid(b4d30731f482a934696276b0d27582ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81bd748ece4af5c1d09fd2d4ac5c932e') in 0.011026 seconds
+  Import took 0.012786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Models/xiaogong/tex/肌.png
+  artifactKey: Guid(3c6b84e377f45bc48849872570d9101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/肌.png using Guid(3c6b84e377f45bc48849872570d9101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6742fc8edba28718981e08407435c9') in 0.016538 seconds
+  Import took 0.018199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001331 seconds.
+  path: Assets/Models/xiaogong/tex/肌.png
+  artifactKey: Guid(3c6b84e377f45bc48849872570d9101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/肌.png using Guid(3c6b84e377f45bc48849872570d9101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6742fc8edba28718981e08407435c9') in 0.019127 seconds
+  Import took 0.021169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.523971 seconds.
+  path: Assets/Models/xiaogong/宵宫.fbx
+  artifactKey: Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/宵宫.fbx using Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '043efdcfef81029742b93bc5792b7f84') in 0.083201 seconds
+  Import took 0.086458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.035337 seconds.
+  path: Assets/Models/xiaogong/宵宫.fbx
+  artifactKey: Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/宵宫.fbx using Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9383f877f3616ab267978e8046c14e06') in 0.084002 seconds
+  Import took 0.087308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 316.932630 seconds.
+  path: Assets/Anim
+  artifactKey: Guid(93c124c95e7b42e43b8ff2d995a3b001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anim using Guid(93c124c95e7b42e43b8ff2d995a3b001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d7e2b96e25a2bd1533b8a97d5ea342') in 0.005564 seconds
+  Import took 0.007280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.458224 seconds.
+  path: Assets/Models/xiaogong/0004_vmd.anim
+  artifactKey: Guid(e9728ce94393f2f439340e4aa886dbfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/0004_vmd.anim using Guid(e9728ce94393f2f439340e4aa886dbfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a72f0c939208c8a9fbef62c17b6e5fc5') in 0.202092 seconds
+  Import took 0.203891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.552447 seconds.
+  path: Assets/Models/xiaogong/宵宫.fbx
+  artifactKey: Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/宵宫.fbx using Guid(aa3da1058de1b704ea99ed8f90072a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14752db67fe7381df1e983ca06b0ba30') in 0.111834 seconds
+  Import took 0.114952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.567457 seconds.
+  path: Assets/Models/xiaogong/Materials
+  artifactKey: Guid(840dd56a26bdcf44a8855f1705c12512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials using Guid(840dd56a26bdcf44a8855f1705c12512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a45000eace4d941c39d25c8c122cbe0') in 0.012204 seconds
+  Import took 0.013935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087117 seconds.
+  path: Assets/Models/xiaogong/Materials/0.men1.mat
+  artifactKey: Guid(0a822e0faf02a244a9e026cc4f46d05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/0.men1.mat using Guid(0a822e0faf02a244a9e026cc4f46d05b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831a7983369c7dd2d3a16e04da8b051f') in 0.045969 seconds
+  Import took 0.047818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Models/xiaogong/Materials/12.me.mat
+  artifactKey: Guid(c90acd62a4baab04494eea5c7a53ecbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/12.me.mat using Guid(c90acd62a4baab04494eea5c7a53ecbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517dcb5963d66d6754ced83459412be8') in 0.012601 seconds
+  Import took 0.014363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Models/xiaogong/Materials/13.koromo.mat
+  artifactKey: Guid(ce4bb05fa6442c84d8c16570c916c1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/13.koromo.mat using Guid(ce4bb05fa6442c84d8c16570c916c1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec512547f816ead8e8aab57a988e7e7b') in 0.060350 seconds
+  Import took 0.062052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Models/xiaogong/Materials/1.men.mat
+  artifactKey: Guid(1f59e7a87d237ee47a375d331b4f0420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/1.men.mat using Guid(1f59e7a87d237ee47a375d331b4f0420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '870eb41720708557098b67286a4ebfc5') in 0.010154 seconds
+  Import took 0.011882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Models/xiaogong/Materials/3.nijuu.mat
+  artifactKey: Guid(30397b9273cccfe4c8582451f76b666e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/3.nijuu.mat using Guid(30397b9273cccfe4c8582451f76b666e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c99cf6704b799f9927a962845b84c44') in 0.016354 seconds
+  Import took 0.018198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Models/xiaogong/Materials/19.__.mat
+  artifactKey: Guid(aaa3b3ebfb30b004d91639c6b620e703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/19.__.mat using Guid(aaa3b3ebfb30b004d91639c6b620e703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de245179576b9e542f6d22f378206f24') in 0.009491 seconds
+  Import took 0.011195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Models/xiaogong/Materials/22.kaminomeAL.mat
+  artifactKey: Guid(b1cb77646a25a8c4992820b0ca204c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/22.kaminomeAL.mat using Guid(b1cb77646a25a8c4992820b0ca204c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42566800e3bd8c2c252222b3d120dd5d') in 0.009378 seconds
+  Import took 0.011098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Models/xiaogong/Materials/8.mayu.mat
+  artifactKey: Guid(676991509604da543aef643029f267fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/8.mayu.mat using Guid(676991509604da543aef643029f267fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4fd6e7b73ca5b62583ca9de15457f06') in 0.010660 seconds
+  Import took 0.012329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Models/xiaogong/Materials/10._sph+.mat
+  artifactKey: Guid(03e0b07978a501947b798012bb785bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/10._sph+.mat using Guid(03e0b07978a501947b798012bb785bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98292b69e11ade0db38dd3765b8f9065') in 0.010265 seconds
+  Import took 0.012083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Models/xiaogong/Materials/20._yui.mat
+  artifactKey: Guid(9dcad7ef275f27d4c9f7f8ed8841201a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/20._yui.mat using Guid(9dcad7ef275f27d4c9f7f8ed8841201a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a874b09a1764105929ba3746f55e8bc0') in 0.010330 seconds
+  Import took 0.012212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Models/xiaogong/Materials/17.koshi__.mat
+  artifactKey: Guid(27e2eeef80733154faa941b164340a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/17.koshi__.mat using Guid(27e2eeef80733154faa941b164340a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '727156c0bd5d97395757b3607737e510') in 0.009301 seconds
+  Import took 0.011006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Models/xiaogong/Materials/24.yubikabuto.mat
+  artifactKey: Guid(31f5ba0526a3a5c4d959920ed9f1ac5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/24.yubikabuto.mat using Guid(31f5ba0526a3a5c4d959920ed9f1ac5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5682324f938b98a6198af5a0910338c') in 0.029851 seconds
+  Import took 0.031574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Models/xiaogong/Materials/4.matsuge.mat
+  artifactKey: Guid(ba9be6186fee45045b2329bc2fd23649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/4.matsuge.mat using Guid(ba9be6186fee45045b2329bc2fd23649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fdd8e6442672fb45a35e97ad5a8d91') in 0.020073 seconds
+  Import took 0.021810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Models/xiaogong/Materials/9._.mat
+  artifactKey: Guid(03bcc3ff218aa444aa0cdcdf7d6e51cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/9._.mat using Guid(03bcc3ff218aa444aa0cdcdf7d6e51cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf56edd823027cbb33ae5972b945aa3') in 0.010164 seconds
+  Import took 0.011932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Models/xiaogong/Materials/2.men2.mat
+  artifactKey: Guid(5afafd3a7283eaa4d804a541edc00ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/2.men2.mat using Guid(5afafd3a7283eaa4d804a541edc00ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20431b49d7270b866d716fbdb1f5a9f7') in 0.018859 seconds
+  Import took 0.020628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Models/xiaogong/Materials/11.atamakazari.mat
+  artifactKey: Guid(28f9c5c7d0bc46041a673f8212504c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/11.atamakazari.mat using Guid(28f9c5c7d0bc46041a673f8212504c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4468261d5c5db5191ae97bfb7a8e21') in 0.021195 seconds
+  Import took 0.022993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Models/xiaogong/Materials/6.kuchi.mat
+  artifactKey: Guid(99f34572b7c9a0a4b88732d7e4caf7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/6.kuchi.mat using Guid(99f34572b7c9a0a4b88732d7e4caf7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc57983fe839b50c106e6d8f3559fe43') in 0.009812 seconds
+  Import took 0.011935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Models/xiaogong/Materials/15.tsutsumi.mat
+  artifactKey: Guid(8aafa26b626bdf2418c74d696e10307a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/15.tsutsumi.mat using Guid(8aafa26b626bdf2418c74d696e10307a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bfed2182c703837d5060dc6d081c27') in 0.010285 seconds
+  Import took 0.011969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Models/xiaogong/Materials/14.koromo_.mat
+  artifactKey: Guid(c05674fba1f3a644f93577ad4d9abc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/14.koromo_.mat using Guid(c05674fba1f3a644f93577ad4d9abc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575fa45883af360bffed595739144c98') in 0.010320 seconds
+  Import took 0.012026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Models/xiaogong/Materials/26.hoshime.mat
+  artifactKey: Guid(3118ca5655231b54b846904735fdfd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/26.hoshime.mat using Guid(3118ca5655231b54b846904735fdfd6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e48d3cf90dd5f0f486f7ba8bc197c0') in 0.017614 seconds
+  Import took 0.019348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Models/xiaogong/Materials/21.kaminome.mat
+  artifactKey: Guid(fd9aac7837f60d44e964d574e1669b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/21.kaminome.mat using Guid(fd9aac7837f60d44e964d574e1669b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9848552c4d0f5b4513543dfeb148858b') in 0.009572 seconds
+  Import took 0.011337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Models/xiaogong/Materials/7._.mat
+  artifactKey: Guid(34faf537e801be3478309760199f6d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/7._.mat using Guid(34faf537e801be3478309760199f6d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef325f779feb468dc0894507afbd56a') in 0.009699 seconds
+  Import took 0.011614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Models/xiaogong/Materials/18.shiro_.mat
+  artifactKey: Guid(c008b8d19a842764283d807726ce8c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/18.shiro_.mat using Guid(c008b8d19a842764283d807726ce8c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3515ae2fd557832172e1ee50229216a6') in 0.010356 seconds
+  Import took 0.012103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Models/xiaogong/Materials/16.yui1.mat
+  artifactKey: Guid(5bc48cff50b08c441ba70f94433ba062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/16.yui1.mat using Guid(5bc48cff50b08c441ba70f94433ba062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222486fed55672473ab36d03bc29b0c7') in 0.010391 seconds
+  Import took 0.012142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Models/xiaogong/Materials/23.hada.mat
+  artifactKey: Guid(a1ec2d41998aa4d49a9b887ac1a83025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/23.hada.mat using Guid(a1ec2d41998aa4d49a9b887ac1a83025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bcd47803411dfe0d2560cd3ce49d479') in 0.017835 seconds
+  Import took 0.019660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Models/xiaogong/Materials/25._.mat
+  artifactKey: Guid(9395e4fc969543c47853cfaaedcbc606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/25._.mat using Guid(9395e4fc969543c47853cfaaedcbc606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad90dfe8135d147438cc1ed673b424ff') in 0.009730 seconds
+  Import took 0.011599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Models/xiaogong/Materials/5.shirome.mat
+  artifactKey: Guid(7c08917fabd147e47bb8e1a694cf14c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/Materials/5.shirome.mat using Guid(7c08917fabd147e47bb8e1a694cf14c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b68cb68351946a25ddb372a1886781') in 0.009834 seconds
+  Import took 0.011609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.102826 seconds.
+  path: Assets/Models/xiaogong/tex/sph.mat
+  artifactKey: Guid(8262bfe39cd9fe843b21647dac4093bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph.mat using Guid(8262bfe39cd9fe843b21647dac4093bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e422612e2b27e00294aff46d6ab5fe04') in 0.137811 seconds
+  Import took 0.139560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.130214 seconds.
+  path: Assets/Models/xiaogong/tex/sph.mat
+  artifactKey: Guid(8262bfe39cd9fe843b21647dac4093bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph.mat using Guid(8262bfe39cd9fe843b21647dac4093bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c1e5d731dac7191172b40fa88fd961') in 0.142817 seconds
+  Import took 0.145027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.337730 seconds.
+  path: Assets/Models/xiaogong/tex/sph 1.mat
+  artifactKey: Guid(96c58a5dbf017024ab77ea88afd89106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph 1.mat using Guid(96c58a5dbf017024ab77ea88afd89106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315ba51b649ad1b8fdf7a999d2481b2b') in 0.014478 seconds
+  Import took 0.016579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Models/xiaogong/tex/sph 1.mat
+  artifactKey: Guid(96c58a5dbf017024ab77ea88afd89106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph 1.mat using Guid(96c58a5dbf017024ab77ea88afd89106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315ba51b649ad1b8fdf7a999d2481b2b') in 0.014233 seconds
+  Import took 0.016308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.556361 seconds.
+  path: Assets/Models/xiaogong/tex/sph 2.mat
+  artifactKey: Guid(e83c2049878b37c42a0eec20d96ac4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph 2.mat using Guid(e83c2049878b37c42a0eec20d96ac4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc4887e6849f70fb09303b11acd776f') in 0.015925 seconds
+  Import took 0.018233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.136396 seconds.
+  path: Assets/Models/xiaogong/tex/sph 3.mat
+  artifactKey: Guid(a11d11876f71d0940a92491af6e08908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/sph 3.mat using Guid(a11d11876f71d0940a92491af6e08908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2675fcafd4bbec9aa82e93ff5a22bd0') in 0.015699 seconds
+  Import took 0.017910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 230.132388 seconds.
+  path: Assets/Models/xiaogong/tex/fa.mat
+  artifactKey: Guid(d0ff98b120fc3734d9ffd3da89b5dda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/fa.mat using Guid(d0ff98b120fc3734d9ffd3da89b5dda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5deeb164a8f4654c539e8f9f3aebdf38') in 0.015744 seconds
+  Import took 0.017842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Models/xiaogong/tex/mian.mat
+  artifactKey: Guid(a11d11876f71d0940a92491af6e08908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/mian.mat using Guid(a11d11876f71d0940a92491af6e08908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b7d36308b4fb79d71301ee6f7e1eb7') in 0.034242 seconds
+  Import took 0.036323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Models/xiaogong/tex/yi.mat
+  artifactKey: Guid(e83c2049878b37c42a0eec20d96ac4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/yi.mat using Guid(e83c2049878b37c42a0eec20d96ac4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3eaa361336136a356a54845a013b1ec') in 0.014485 seconds
+  Import took 0.016699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Models/xiaogong/tex/ji.mat
+  artifactKey: Guid(96c58a5dbf017024ab77ea88afd89106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/xiaogong/tex/ji.mat using Guid(96c58a5dbf017024ab77ea88afd89106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caafd6170caffcdc0dc22b8df672cdf6') in 0.024167 seconds
+  Import took 0.026339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.860053 seconds.
+  path: Assets/Anim/main.controller
+  artifactKey: Guid(6ec306b367c79c247a18616c7b2804a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Anim/main.controller using Guid(6ec306b367c79c247a18616c7b2804a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9bd167621e15f12c2e3174ba4c2208b') in 0.027347 seconds
+  Import took 0.029435 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.595 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1209 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.7 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 9.382200 ms (FindLiveObjects: 0.137400 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.084200 ms  DeleteObjects: 8.132000 ms)
+
